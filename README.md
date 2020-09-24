@@ -1,1 +1,1 @@
-# streamnetdynamics
+# Network Hydraulic Scaling Research App
